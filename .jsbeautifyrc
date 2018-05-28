@@ -1,4 +1,4 @@
- {
+,  {
    "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg", "dust"],
    "brace_style": "collapse",
    "end_with_newline": true,

@@ -1,0 +1,13 @@
+{
+    "name": "dino/php",
+    "description": "PHP showcase",
+    "authors": [
+        {
+            "name": "dinokeco",
+            "email": "dino.keco@gmail.com"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3"
+    }
+}
